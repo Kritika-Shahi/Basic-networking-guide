@@ -8,7 +8,6 @@ Basic network devices
 IP addressing basics
 OSI model overview
 Key networking terms
-All diagrams stored in the images/ folder
 
-Purpose
+Purpose:
 To document my learning, strengthen my fundamentals, and share clear, visual networking notes with other beginners.
